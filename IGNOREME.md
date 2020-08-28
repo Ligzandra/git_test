@@ -1,0 +1,1 @@
+This is Ligzandra Trial version of the git project
